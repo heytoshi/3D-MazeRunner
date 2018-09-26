@@ -3,7 +3,7 @@
 Language: C#, Query
 Software: Unity, SQLite, Maya
 
-//Portfolio
+Portfolio
 
 	The project is a three-dimensional game that was implemented for Windows OS using the Unity engine. The game is very similar to the popular mobile phone title “Temple Run”. The main difference is that our game was made for educational purposes. The objective of the game is to spell words by collecting tokens while avoiding obstacles. The game has login features, user profiles, user score ranking system, add-ons and graphic configuration options. 
 	
