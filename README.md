@@ -4,7 +4,7 @@ Language: C#, Query
 
 Software: Unity, SQLite, Maya
 
-![alt text](https://imgur.com/6rbVHF5)
+![Alt Text](https://imgur.com/6rbVHF5)
 
 // About
 
